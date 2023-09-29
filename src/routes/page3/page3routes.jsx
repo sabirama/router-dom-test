@@ -1,6 +1,6 @@
-import Page3a from "../../pages/page3/page3a";
-import Page3b from "../../pages/page3/page3b";
-import Page3c from "../../pages/page3/page3c";
+import Page3a from "../../pages/page3/page3a/Index.jsx";
+import Page3b from "../../pages/page3/page3b/Index.jsx";
+import Page3c from "../../pages/page3/page3c/Index.jsx";
 
 const page3routes = [
   {
